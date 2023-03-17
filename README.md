@@ -164,3 +164,7 @@ And what liberties and obligations that entails.
 I remember reading somewhere that _modified_ software under the _Apache Licence 2.0_ can be
 commercialised but must be open source. But does importing OpenCV and using its Java-wrapped C++ API
 constitute a modification? No idea.
+
+## TODO
+
+* Unit tests for everything, which probably means some refactoring too.
